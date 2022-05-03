@@ -1,4 +1,6 @@
 .inputs{
     display:grid;
-    grid-template-columns:auto auto auto auto;
+    grid-template-columns:auto auto auto auto auto auto auto;
+    justify-content:center;
+    gap: .5rem;
 }

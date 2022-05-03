@@ -10,6 +10,7 @@ function App() {
     <h1>React Calculator</h1>
     <Card>
      <div><label>1234567890</label></div> 
+     <div>answer</div>
       <Inputs/>
     </Card>
     </Fragment>
